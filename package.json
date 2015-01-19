@@ -14,6 +14,7 @@
     "concat-stream": "^1.4.7",
     "request": "^2.51.0",
     "websocket-stream": "^1.3.2",
-    "trumpet": "^1.7.0"
+    "trumpet": "^1.7.0",
+    "duplexer": "^0.1.1"
   }
 }
